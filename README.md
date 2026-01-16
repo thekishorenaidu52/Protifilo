@@ -1,48 +1,55 @@
-# 🌐 Personal Portfolio Website
+🌐 Personal Portfolio Website
 
-This is my personal portfolio website created using **HTML**.  
-It showcases my **education, skills, hobbies, and contact details** in a clean and simple format.
+This repository contains my personal portfolio website built using HTML and CSS.
+It presents my academic background, technical skills, and professional interests in a clean and structured layout suitable for internships and entry-level roles.
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
-Hi, I’m **Kishore Naidu**, a passionate learner and aspiring software developer.  
-I enjoy learning new technologies and building simple projects to strengthen my fundamentals.
+Hi, I’m Kishore Naidu, an engineering student and aspiring software developer.
+I am passionate about web development, C++, and data structures & algorithms, and I continuously work on improving my problem-solving and development skills through practice and projects.
 
----
+🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-- HTML5
+HTML5 – Structure and content
 
----
+CSS3 – Styling, layout, and responsiveness
 
-## 📚 Sections Included
-- Header with name & introduction
-- Education details
-- Skills
-- Hobbies & interests
-- Contact information
-- Navigation links
+📚 Sections Included
 
----
+Header with name, profile image, and short introduction
 
-## 📷 Preview
-Add your image file:
+Education details
 
----
+Technical skills
 
-## 🚀 How to Run
-1. Download or clone the repository  
-2. Open `index.html` in any browser  
+Professional interests
 
----
+Contact information
 
-## 🔗 Connect With Me
-- 📧 Email: kishorependli147@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kishore-pendli-286888283/
-- 🐙 GitHub: https://github.com/thekishorenaidu52
+Navigation links
 
----
+🎯 Skills Highlighted
 
-❤️ Made with passion by **Kishore Naidu**
-"# Protifilo" 
+Web Development: HTML, CSS, JavaScript
+
+Programming: C++, C
+
+Data Structures & Algorithms: Problem solving using C++
+
+Database: SQL (basic queries and concepts)
+
+🚀 How to Run the Project
+
+Download or clone the repository
+
+Open index.html in any modern web browser
+
+🔗 Connect With Me
+
+📧 Email: kishorependli147@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kishore-pendli-286888283/
+
+🐙 GitHub: https://github.com/thekishorenaidu52
+
+⭐ Made with dedication by Kishore Naidu"# portfolio" 

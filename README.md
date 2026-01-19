@@ -53,3 +53,5 @@ Open index.html in any modern web browser
 🐙 GitHub: https://github.com/thekishorenaidu52
 
 ⭐ Made with dedication by Kishore Naidu"# portfolio" 
+screeenshots of my project : <img width="1911" height="891" alt="image" src="https://github.com/user-attachments/assets/d253394a-aac0-4ce6-9652-082496f57cb1" />
+
